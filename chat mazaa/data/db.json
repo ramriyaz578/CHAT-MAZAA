@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "image" :"https://picsum.photos/id/1019/1000/600/",
+      "dateTime": "November 01, 2023 11:47:30 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse nihil qui accusamus voluptatem modi possimus similique amet consequuntur eaque molestiae numquam dolorum earum hic necessitatibus dignissimos, est unde expedita animi?"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "image" :"https://picsum.photos/id/1019/1000/600/",
+      "dateTime": "November 01, 2023 11:47:35 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse nihil qui accusamus voluptatem modi possimus similique amet consequuntur eaque molestiae numquam dolorum earum hic necessitatibus dignissimos, est unde expedita animi?"
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "image" :"https://picsum.photos/id/1019/1000/600/",
+      "dateTime": "November 01, 2023 11:49:40 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse nihil qui accusamus voluptatem modi possimus similique amet consequuntur eaque molestiae numquam dolorum earum hic necessitatibus dignissimos, est unde expedita animi?"
+    }
+  ]
+}
